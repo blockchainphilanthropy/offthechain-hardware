@@ -5,7 +5,7 @@ Potential BOM:
 -----------------------
 Target 1.8V VDD:  
 * nRF52840 as main processor chip
-* USB-C? - CCG2 or CCG3?
+* USB-C? - CCG2 or CCG3?  
   USB-B micro and CCG2 designs available from Fyber Labs
 * ST31 chip not needed with Cryptocell-310?
 * SPI flash as big as budget will allow...
