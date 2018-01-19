@@ -14,6 +14,7 @@ Target 1.8V VDD:
 * MPPT charging - BQ25504? - BQ25570 likely for buck/boost
 * Solar cell - cheaper? - https://www.digikey.com/product-detail/en/ixys/SLMD121H08L/SLMD121H08L-ND/3463125
 * Power: replaceable NiMH 2xAAA  
+* Hardware decrementer DS28E38? or similar mechanism to prevent state roll-back double spends.
 
 Sub $20 EAU 1k.  Ideally < $10
 
